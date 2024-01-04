@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 dnafication/amplication is built on the following main stack:
+
 - [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
 - [Ruby](https://www.ruby-lang.org) – Languages
 - [Python](https://www.python.org) – Languages
@@ -41,11 +42,13 @@ dnafication/amplication is built on the following main stack:
 - [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 dnafication/amplication is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/830/jest.png' alt='Jest'/> [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
 - <img width='25' height='25' src='https://img.stackshare.io/service/989/ruby.png' alt='Ruby'/> [Ruby](https://www.ruby-lang.org) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
@@ -85,14 +88,15 @@ dnafication/amplication is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/586/n4u37v9t_400x400.png' alt='Docker'/> [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [dnafication/amplication](https://github.com/dnafication/amplication)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|169<br/>Tools used|11/09/23 <br/>Report generated|
+|173<br/>Tools used|01/04/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -519,9 +523,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (121)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (125)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (121)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (125)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -574,6 +578,7 @@ Full tech stack [here](/techstack.md)
 |[babel-jest](https://www.npmjs.com/babel-jest)|v28.1.3|04/16/23|tupe12334 |MIT|N/A|
 |[base-64](https://www.npmjs.com/base-64)|v1.0.0|02/13/23|Daniele Iasella |MIT|N/A|
 |[bcrypt](https://www.npmjs.com/bcrypt)|v5.1.0|10/04/22|Ariel Weinberger |MIT|N/A|
+|[chalk](https://www.npmjs.com/chalk)|v4.1.2|11/11/22|Ariel Weinberger |MIT|N/A|
 |[class-transformer](https://www.npmjs.com/class-transformer)|v0.5.1|03/12/23|yuval-hazaz |MIT|N/A|
 |[class-validator](https://www.npmjs.com/class-validator)|v0.14.0|05/08/23|barshimi |MIT|N/A|
 |[classnames](https://www.npmjs.com/classnames)|v2.3.2|05/31/23|yuval-hazaz |MIT|N/A|
@@ -599,8 +604,10 @@ Full tech stack [here](/techstack.md)
 |[glob](https://www.npmjs.com/glob)|v7.2.3|03/16/23|Daniele Iasella |ISC|N/A|
 |[graphql-type-json](https://www.npmjs.com/graphql-type-json)|v0.3.2|06/07/23|tupe12334 |MIT|N/A|
 |[html-webpack-plugin](https://www.npmjs.com/html-webpack-plugin)|v4.5.2|05/08/23|dependabot[bot] |MIT|N/A|
+|[husky](https://www.npmjs.com/husky)|v7.0.4|11/20/22|Eugene Tseitlin |MIT|N/A|
 |[jest-environment-jsdom](https://www.npmjs.com/jest-environment-jsdom)|v28.1.1|04/16/23|tupe12334 |MIT|N/A|
 |[jsonwebtoken](https://www.npmjs.com/jsonwebtoken)|v9.0.0|01/11/23|Daniele Iasella |MIT|N/A|
+|[lint-staged](https://www.npmjs.com/lint-staged)|v12.5.0|05/08/23|dependabot[bot] |MIT|N/A|
 |[minimatch](https://www.npmjs.com/minimatch)|v3.1.2|04/17/23|dependabot[bot] |ISC|N/A|
 |[node-fetch](https://www.npmjs.com/node-fetch)|v2.6.7|05/22/23|Daniele Iasella |MIT|N/A|
 |[normalize-path](https://www.npmjs.com/normalize-path)|v3.0.0|03/21/23|dependabot[bot] |MIT|N/A|
@@ -646,8 +653,9 @@ Full tech stack [here](/techstack.md)
 |[winston](https://www.npmjs.com/winston)|v3.8.2|02/08/23|Daniele Iasella |MIT|N/A|
 |[yaml](https://www.npmjs.com/yaml)|v1.10.2|05/02/23|dependabot[bot] |ISC|N/A|
 |[yargs](https://www.npmjs.com/yargs)|v15.4.1|06/07/23|tupe12334 |MIT|N/A|
+|[yup](https://www.npmjs.com/yup)|v0.32.11|05/12/20|Iddan Aaronsohn |MIT|N/A|
 
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)

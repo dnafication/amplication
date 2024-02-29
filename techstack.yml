@@ -2,7 +2,7 @@ repo_name: dnafication/amplication
 report_id: 7ca30804f5a9e343bf954e11415b21e6
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T09:10:25+00:00'
+timestamp: '2024-02-29T18:20:31+00:00'
 requested_by: mulygottlieb
 provider: github
 branch: master
@@ -406,7 +406,7 @@ tools:
   last_updated_by: Daniele Iasella
   last_updated_on: 2023-01-18 12:21:56.000000000 Z
 - name: Prettier
-  description: 'Prettier is an opinionated code formatter. '
+  description: Prettier is an opinionated code formatter.
   website_url: https://prettier.io/
   version: 2.3.0
   license: MIT
@@ -444,7 +444,7 @@ tools:
   last_updated_by: Iddan Aaronsohn
   last_updated_on: 2020-05-12 16:04:38.000000000 Z
 - name: SuperTest
-  description: 'A library for testing node.js HTTP servers '
+  description: A library for testing node.js HTTP servers
   website_url: https://www.npmjs.com/package/supertest
   version: 4.0.2
   license: MIT
